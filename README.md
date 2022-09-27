@@ -1,8 +1,10 @@
 # *Project Title: Crazy Pacmen*
 ![alt text](images/pacman-screenshot.png "Real time bus tracker")
 
-## About.
-    This project excercise is about creation of packmans all over the screen and let them go in random directions and velocities.
+## Description.
+    This project excercise is about creation of packmans
+    all over the screen and let them go in random directions
+    and velocities.
 
 ## Installation.
     Download de code files and load index.html into the browser.
@@ -11,7 +13,6 @@
     Click "Add PacMan" button to insert new pacmans into the screen.
     Click "Start Game" button to start the pacmans movements.
     Enjoy.
-
 
 ## Roadmap of future improvements.
 1. Add colision between pacmans.
