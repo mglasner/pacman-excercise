@@ -4,7 +4,8 @@
 ## Description.
     This project excercise is about creation of packmans
     all over the screen and let them go in random directions
-    and velocities.
+    and velocities. The pacmans must rebound at the edges
+    of the screen.
 
 ## Installation.
     Download de code files and load index.html into the browser.
